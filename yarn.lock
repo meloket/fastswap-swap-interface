@@ -1966,9 +1966,9 @@
     "@ethersproject/properties" "^5.0.7"
     "@ethersproject/strings" "^5.0.8"
 
-"@fastswap-libs@https://git.sfxdx.ru/fastswap/fastswap-sdk.git#02d743db14cdc0375223fabfa9c1ffcb56b2aa09":
+"@fastswap-libs@https://github.com/toshifyfinance/fastswap-sdk.git":
   version "1.0.1"
-  resolved "https://git.sfxdx.ru/fastswap/fastswap-sdk.git#02d743db14cdc0375223fabfa9c1ffcb56b2aa09"
+  resolved "https://github.com/toshifyfinance/fastswap-sdk.git#12b6a491f09bfac4f2ae594847b6ecf41ab3756a"
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"
@@ -1978,9 +1978,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@fastswap-uikit@https://git.sfxdx.ru/fastswap/fastswap-uikit.git#a9610cfe464130f54ca083adf9f8c3340c944e32":
+"@fastswap-uikit@https://github.com/toshifyfinance/fastswap-uikit.git":
   version "0.14.1"
-  resolved "https://git.sfxdx.ru/fastswap/fastswap-uikit.git#a9610cfe464130f54ca083adf9f8c3340c944e32"
+  resolved "https://github.com/toshifyfinance/fastswap-uikit.git#b76d62711719a0c29dafa082aec6a61ae66ddad3"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

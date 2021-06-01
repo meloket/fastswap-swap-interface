@@ -6,8 +6,8 @@
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
-    "@fastswap-libs": "https://git.sfxdx.ru/fastswap/fastswap-sdk.git#02d743db14cdc0375223fabfa9c1ffcb56b2aa09",
-    "@fastswap-uikit": "https://git.sfxdx.ru/fastswap/fastswap-uikit.git#a9610cfe464130f54ca083adf9f8c3340c944e32",
+    "@fastswap-libs": "https://github.com/toshifyfinance/fastswap-sdk.git",
+    "@fastswap-uikit": "https://github.com/toshifyfinance/fastswap-uikit.git",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
