@@ -1,10 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import { IconButton, Flex, useModal } from '@fastswap-uikit'
 import styled from 'styled-components'
 import respondTo from 'style/RespondTo'
 import { useGetStats } from 'hooks/useGetStats'
 import useGlobalData from 'hooks/useGlobalData'
 import Card from './Card'
 import Swap from '../../Swap'
+
+import NewsModal from './NewsModal'
 
 const Wrapper = styled.div`
   padding: 0 172px;
@@ -62,6 +65,11 @@ const SwapOut = styled.div`
   ${respondTo.sm`
     display: none;
   `}
+`
+
+const Icon = styled.img`
+  width: 32px;
+  height: 32px;
 `
 
 const Main: React.FC = () => {
