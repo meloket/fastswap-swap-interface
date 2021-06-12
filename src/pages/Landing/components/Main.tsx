@@ -85,7 +85,7 @@ const Main: React.FC = () => {
       <TextOut>
         <Header>FASTEST Swapping Experience</Header>
         <Text>
-          FastSwap is a decentrailized protocol for automated liquidity provision on Ehtereum, Tron Network, BSC etc. +
+          FastSwap is a decentrailized protocol for automated liquidity provision on Ethereum, Tron Network, BSC etc. +
           Cross-Chain Swap through Parachain on Polkadot.
         </Text>
         <CardGroup>
